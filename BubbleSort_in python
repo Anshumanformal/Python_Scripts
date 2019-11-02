@@ -1,0 +1,19 @@
+def bubsort(l1):
+    for i in range(len(l1)):
+        swapped = False
+        for j in range(0,len(l1)-i-1):
+            if(l1[j] > l1[j+1]):
+                l1[j],l1[j+1] = l1[j+1],l1[j]
+                swapped = True
+        if swapped == False:
+            break
+        
+l1 = [22,33,12,1,56,3,67,23,89,45,33]
+print("Unsorted List:\n")
+for i in range(len(l1)):
+    print("%d"%(l1[i]))
+bubsort(l1)
+print("Sorted List:\n")
+for i in range(len(l1)):
+    print("%d"%(l1[i]))
+                
