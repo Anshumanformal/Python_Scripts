@@ -1,10 +1,10 @@
 This python project uses OOPS, MySql, and if - else condition concepts to view, insert, delete or update data into the database. The database already consists of some sample data. Here, menu driven approach is utilised for user - convenience.
 
 How to run the code on local machine:
-1. Install MySql from (http://dev.mysql.com/downloads/)
+1. Install MySql from http://dev.mysql.com/downloads/
 2. Start MySql command prompt.
 3. Enter the command - create database restaurant;
 4. Enter the command - use restaurant;
 5. Minimize the MySql command prompt.
-6. Copy the code and paste it into a new python IDLE file. For python installation check (https://www.python.org/downloads/)
+6. Copy the code and paste it into a new python IDLE file. For python installation check https://www.python.org/downloads/
 7. Press F5 and that's it.
