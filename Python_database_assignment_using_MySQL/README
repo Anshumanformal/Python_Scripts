@@ -1,4 +1,4 @@
-This python project uses OOPS, MySql, and if - else condition concepts to view, insert, delete or update data into the database. The database already consists of some sample data. Here, menu driven approach is utilised for user - convenience.
+This python project uses OOPS, MySql, and if - else condition concepts to view, insert, delete or update data into the database. The database already consists of some sample data. Here, menu driven approach is utilized for user - convenience.
 
 How to run the code on local machine:
 1. Install MySql from http://dev.mysql.com/downloads/
