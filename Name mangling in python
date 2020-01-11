@@ -1,0 +1,9 @@
+class Student:
+    def __init__(self):
+        self.__id = 12345
+        self.__name = "Abhishek"
+
+s = Student()
+#Name mangling
+print(s._Student__id)
+print(s._Student__name)
