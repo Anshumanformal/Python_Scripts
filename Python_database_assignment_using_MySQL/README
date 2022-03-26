@@ -1,3 +1,4 @@
+<h3>Mini Restaurant management system</h3>
 This python project uses OOPS, MySql, and if - else condition concepts to view, insert, delete or update data into the database. The database already consists of some sample data. Here, menu driven approach is utilized for user - convenience.
 
 How to run the code on local machine:
